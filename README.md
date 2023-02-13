@@ -6,13 +6,7 @@ An activity tracker was built using an  Arduino Nano 33 board. The following ste
 ### Data Collection: 
 
 Data was collected using the IMU (LSM9DS1) on the Arduino board. The activities that were considered are:
-a. Sitting
-b. Standing
-c. Walking
-d. Ascending stairs
-e. Descending stairs
-f. Jumping
-g. Dancing 
+Sitting, Standing, Walking, Ascending stairs, Descending stairs, Jumping and Dancing 
 
 
 ### Classification of the activities:
